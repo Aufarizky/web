@@ -1,0 +1,21 @@
+.container {
+    display: flex;
+}
+
+.side-right {
+    margin-top: 60px;
+    flex: 3;
+    background-color: aquamarine;
+}
+
+.side-left {
+    margin-top: 60px;
+    flex: 1;
+    background-color: lightcyan;
+}
+
+
+form{
+    margin-top: 50px;
+    margin-left: 20px;
+}
